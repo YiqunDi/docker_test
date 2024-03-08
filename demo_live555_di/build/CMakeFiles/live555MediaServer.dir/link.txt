@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/live555MediaServer.dir/mediaServer/DynamicRTSPServer.cpp.o CMakeFiles/live555MediaServer.dir/mediaServer/live555MediaServer.cpp.o  -o live555MediaServer  liveMedia/libliveMedia.a groupsock/libgroupsock.a BasicUsageEnvironment/libBasicUsageEnvironment.a UsageEnvironment/libUsageEnvironment.a -lssl -lcrypto 

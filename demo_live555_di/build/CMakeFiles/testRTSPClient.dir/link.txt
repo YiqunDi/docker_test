@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/testRTSPClient.dir/testProgs/testRTSPClient.cpp.o  -o testRTSPClient  -lssl -lcrypto liveMedia/libliveMedia.a groupsock/libgroupsock.a BasicUsageEnvironment/libBasicUsageEnvironment.a UsageEnvironment/libUsageEnvironment.a -lssl -lcrypto 

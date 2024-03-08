@@ -1,0 +1,16 @@
+/home/dg/di/docker/test/demo_live555_di/build/CMakeFiles/rebuild_cache.dir
+/home/dg/di/docker/test/demo_live555_di/build/CMakeFiles/edit_cache.dir
+/home/dg/di/docker/test/demo_live555_di/build/CMakeFiles/testRTSPClient.dir
+/home/dg/di/docker/test/demo_live555_di/build/CMakeFiles/live555MediaServer.dir
+/home/dg/di/docker/test/demo_live555_di/build/liveMedia/CMakeFiles/rebuild_cache.dir
+/home/dg/di/docker/test/demo_live555_di/build/liveMedia/CMakeFiles/edit_cache.dir
+/home/dg/di/docker/test/demo_live555_di/build/liveMedia/CMakeFiles/liveMedia.dir
+/home/dg/di/docker/test/demo_live555_di/build/groupsock/CMakeFiles/rebuild_cache.dir
+/home/dg/di/docker/test/demo_live555_di/build/groupsock/CMakeFiles/edit_cache.dir
+/home/dg/di/docker/test/demo_live555_di/build/groupsock/CMakeFiles/groupsock.dir
+/home/dg/di/docker/test/demo_live555_di/build/BasicUsageEnvironment/CMakeFiles/rebuild_cache.dir
+/home/dg/di/docker/test/demo_live555_di/build/BasicUsageEnvironment/CMakeFiles/edit_cache.dir
+/home/dg/di/docker/test/demo_live555_di/build/BasicUsageEnvironment/CMakeFiles/BasicUsageEnvironment.dir
+/home/dg/di/docker/test/demo_live555_di/build/UsageEnvironment/CMakeFiles/rebuild_cache.dir
+/home/dg/di/docker/test/demo_live555_di/build/UsageEnvironment/CMakeFiles/edit_cache.dir
+/home/dg/di/docker/test/demo_live555_di/build/UsageEnvironment/CMakeFiles/UsageEnvironment.dir
